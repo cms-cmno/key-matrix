@@ -1,268 +1,443 @@
--Sectors 
-	-Consumer Products
-		-Delivering
-		-The
-		-Goods
-
-		Major retailers and consumer brands are at the heart of modern society. But their very success makes them subject to myriad challenges. As consumers change their spending patterns, digital technologies disrupt established markets and globalisation drives new competitive pressures, only the best and strongest will survive.
-		-/
-		You need a legal adviser who understands your world. That's us. From omni-channel to e-cash, use of social media to digital transformation, international growth to complex regulatory changes and Brexit, our specialist consumer products lawyers help leading brands face new frontiers.
-		-/
-		Whether you operate in FMCG, retail, fashion & luxury or household goods, our newly merged firm has the enhanced bench strength, increased international range, forward-facing outlook and, above all, sector focus to help your business succeed.
-		               
-	-Energy
-		-Barrels
-		-Of
-		-Experience
-
-		Is our world on track for a carbon-free future? What next for the oil and gas industry? And how is the regulatory landscape set to change in the coming years? No one can answer these questions with certainty.
-		-/
-		But with more than 25 years' experience working globally across every part of the sector, we've helped write the rulebook while looking to the future. With you, governments and investors we've shaped regulatory frameworks and contracts adopted by the sector globally. Because our specialist Energy team drills down more deeply to help you grasp the issues you face today and seize tomorrow's opportunities. 
-		-/
-		From the impact of the internet of things to breakthroughs with blockchain, from planning priorities to making the most of your real estate and infrastructure, our combination with Nabarro and Olswang brings yet more power to our energy offering.
-
-	-Financial Services
-		-On
-		-The
-		-Money
-
-		Whether it's the threat from FinTech disruptors or cyber criminals, the impact of Brexit or the ever changing regulatory landscape, the pace of change confronting the financial services sector is fast. The challenges are great. 
-		-/
-		Fluent in the language of financial services and skilled in navigating the regulatory regime, our specialist lawyers have a wealth of knowledge and business-savvy insight. With that experience and leading practices in the City, Edinburgh and beyond, we help clients grow their business through new technology, products and distribution channels.
-		-/
-		The combination of CMS, Nabarro and Olswang brings your world new perspectives. We now have a cutting-edge TMT team advising the biggest tech companies in the world. So we're at the forefront of FinTech and have an inside track on Artificial Intelligence. We're also the real deal in ‘real assets'. We now lead the market in advising investors, structuring funds and advising on the most complex, high value commercial real estate and infrastructure deals.
-
-	-Hotels & Leisure
-		-Five
-		-Star
-		-Service
-
-		How will hotels meet the demands of increasingly tech savvy guests? What impact will geo-political risks and climate change have on consumer confidence? How will the sector respond to the real world and cyber terrorism threat?  Will disruptors like Air bnb fundamentally change business models? Your challenges are complex and often cross-border.  
-		-/
-		Our lawyers understand the operation, ownership, financing and development of hotels, helping you sleep soundly no matter the complexity you face. And we're also expert at helping you manage risk in sectors such as gambling, where the loosening or tightening of regulatory regimes across jurisdictions changes opportunities for your business on the throw of a dice.  
-		-/
-		With over 100 specialist lawyers globally, the combined firm is an international leader in the Hotels & Leisure sector. Now also the leading firm for real estate in the UK and Europe we're focused on the assets that most matter to you too. So whatever legal issues you face, as an owner, investor, lender or operator, you can be sure of a five star service from a law firm that can comfortably accommodate your needs.	
-
-	-Infrastructure & Project Finance
-		-No
-		-Firmer
-		-Foundation
-
-		Today's complex infrastructure and project finance transactions shape the world we live in. But economic and population growth mean demand for new infrastructure is out-stripping supply. That's why the UK government is laying the foundations for £375bn of investment in the sector by 2020. Globally others are looking to do the same. This will kick start projects, attract private investors and stimulate jobs and growth. 
-		-/
-		Whether you're a sponsor, lender or public sector organisation, we have the infrastructure specialists to help you grasp these opportunities. And our market-leading Project Finance lawyers anticipate problems before they arrive, saving you money and time down the line. 
-		-/
-		So it's no surprise our primary markets Infrastructure team has helped deliver deals worth over £16bn in the UK alone. And our secondary market specialists have shaped the PPP projects sector. Together the combined firm has an award-winning practice. A practice that delivers technical and practical advice to help our clients build brighter futures.
-
-	-Life Sciences & Healthcare
-		-Best
-		-Of
-		-Health
-
-		Discovery and innovation drive extraordinary change for both private and public players in the Life Sciences & Healthcare sector. Most importantly, they are delivering new therapies and opportunities to provide better services and improve outcomes for patients. But cost, regulation and an aging population continue to create new challenges.
-		-/
-		That's why it's so important that our team is immersed in your sector. We appreciate our clients' technology. We understand our clients' pressures. We're not just lawyers and patent attorneys, but have backgrounds as immunologists, geneticists, chemists and engineers. For those providing health or social care services, we specialise in advising private health providers, but also understand and work with the NHS. Equally whether you're a start-up, established technology player or global life sciences company or rather an operator, insurer or investor to the sector, we help keep your interests in good shape.
-		-/
-		The combination of CMS, Nabarro and Olswang brings together lawyers acknowledged as leaders in unravelling the legal and regulatory complexities of the Healthcare & Life Sciences sector. The market leading teams we now have across other sectors too give you the pragmatic, commercial advice in areas vital to your success.		
-
-	-Real Estate
-		-The
-		-Real
-		-Deal
-
-		With real estate offering attractive returns relative to bonds, the outlook for our sector remains positive. The wave of capital chasing core assets is still riding high, making the search for yield a key challenge. This may fuel the trend for diversification across asset classes and geographies. Or it may lead to more targeted and specialist exposure to single property types and locations.
-		-/
-		Our market-leading real estate group sits at the centre of this exciting and ever-changing market. We provide our clients with a first-class real estate service no matter how complex the transaction. Whether you're investing, developing or seeking effortlessly efficient asset management, we deliver the full range of real estate services. Our expertise spans all the major core sectors and alternative asset classes.
-		-/
-		We keep one step ahead thanks to our landmark annual conference and thought leadership, helping our clients face the future with confidence. Our experience and business savvy is second-to-none; we're the leading real estate team in the UK and Europe; our commitment to real estate is absolute. We're the real deal. 
-
-	- TMT
-		-Much
-		-Greater
-		-Bandwidth
-
-		Fuelled by huge customer demand for cutting-edge products and increased supply of pioneering services, the sectors of technology, media and telecommunications are each undergoing unprecedented change. Sector convergence coupled with the rapid evolution of new technologies has also opened up a wealth of opportunities.
-		-/
-		You'll be well aware of the need to adapt, diversify into new business lines, and often to grow, while all the time complying with new regulatory requirements. To tackle these challenges head-on, lawyers like us, who understand your sector on an international basis, make a real difference.
-		-/
-		The combination of our three firms brings together a brilliant specialist team that has been right at the leading edge of TMT law since the earliest days of the internet. Today, we have the speed and capacity needed to help your business push the boundaries and continue to innovate. 
-     
--Practices
-	-Banking & Finance
-		-Banking
-		-On
-		-Us
-
-		The lending and debt markets have changed massively in the last decade. Participants face challenges such as regulatory reform, greater competition in debt funding and financial distress. Uncertainties proliferate.
-		-/
-		Whether you are a lender or a borrower – or a sponsor, insolvency practitioner or debt advisor – we can help you navigate these challenges. Our 400 banking and finance lawyers – working with an even larger number of colleagues in areas such as regulation, litigation, capital markets and technology – have the expertise and know-how to support you in anything from your day-to-day legal issues to the largest and most complex international transactions.
-		-/
-		Our merger has enhanced our finance offering to borrowers in our key sectors, as well as transforming what we can do for financial sector clients in areas such as fintech, funds, real estate and outsourcing. It's our sector-based approach that guarantees you'll be working with lawyers who really understand your world.
-
-	-Commercial
-		-Creative
-		-Market
-		-Solutions
-
-		Commercial success is built on the effectiveness and robustness of relationships with third parties – customers, suppliers and intermediaries. Companies have to manage commercial risk while still being able to achieve their business objectives. It's vital that your contracts reflect your real-world concerns.
-		-/
-		As market-leading practitioners, we get this. We've built our firm around sectors, ensuring that our lawyers are not just legal experts but business people who speak your language and understand the world you work in. And our size – we have 70 offices in 39 countries – gives us all the international know-how and experience you're likely to need.
-		-/
-		Working on everything from manufacturing agreements through supply arrangements to IP licensing, technology contracts and media deals, we can help you come up with the structure that best meets your commercial requirements. We've shaped many landmark deals, but our focus is always on finding the right solution for your current problem, whether it's tried and tested or something that's new and unique to you.
-
-	-Competition
-		-Competition
-		-Made
-		-Sense
-
-		Corporates face huge legal risks under competition law. The UK has one of the toughest competition regimes in Europe which includes the threat of criminal prosecutions for executives. Competition investigations are becoming increasingly intrusive and companies need to have robust policies in place to manage these risks.
-		-/
-		We can help. We're a go-to firm for CMA and sector regulator investigations, market inquiries, mergers, and appeals in the Competition Appeal Tribunal. We have wide experience in EU competition and merger matters, state aid, procurement, sanctions and trade. And we offer a winning combination of legal judgment, commercial nous, clear advice and first rate written advocacy, as well as deep experience in optimising the use of economists and integrating their analysis.
-		-/
-		Our 170 competition lawyers across Europe – including a team in Brussels – give us great bench strength and international insight. And our sector focus gives us in-depth knowledge of the application of competition rules in different markets, enabling us to understand your corporate environment and get to grips quickly and successfully with your business priorities.
-
-	-Construction
-		-Building
-		-On
-		-Success
-
-		Technological advances mean construction and engineering is evolving at an unprecedented rate. From new contracts to smart cities and the internet of things, the range of challenges and opportunities is vast, while many more familiar issues and problems remain as important as ever.
-		-/
-		We're a law firm that really understands construction and engineering, both innovative and traditional. Our clients include owners, developers, funders, leading contractors, specialist sub-contractors and consultants. We've worked on some of the UK's most complex and high-profile energy, infrastructure and real estate developments, and on many major international projects. And our dispute resolution specialists, with a wealth of construction and engineering experience, are here to help you when things go wrong.
-		-/
-		But we also know much more than pure construction and engineering law. Our sector focus at CMS gives us genuine insight in real estate, technology, infrastructure, energy and project finance. So we get the big picture as well as the detail. Whatever the angle, our understanding and experience enable us to devise winning strategies to protect you, and to craft real-world agreements that really work.
-
-	-Corporate
-		-On
-		-Company
-		-Business
-
-		Corporate activity makes the business world go round. And corporates – facing competitive pressures, regulatory problems, the need for growth and the dangers of getting left behind – can never afford to stand still.
-		-/		
-		We help our clients with the full range of M&A, private equity, equity capital markets, JVs and corporate advisory issues. Having just merged ourselves, we're better placed than ever to deliver a great service, with improved bench strength, a wider international network, a renewed emphasis on investment in technology,  and an unrivalled sector-based offering that makes us a law firm of choice in many of the key segments of a 21st century economy.
-		-/
-		The breadth that comes from our size combines with the focus that comes from our sector structure to give us the best of both worlds. We are global and local. We can mix the big picture with our detailed understanding of your sector and markets – and, of course, our legal expertise – to deliver the business solutions you need.
-
-	-Disputes
-		-A
-		-vs
-		-B
-		
-		Snowballing regulation, international uncertainties, class actions, IP protection online, whistleblowing, corporate crime – the world of dispute resolution has never seemed more complex. Underlying it all, though, is an unchanging imperative: to manage risk and deal, pragmatically and commercially, with the challenges your company faces.
-		-/
-		Our ground-breaking merger has given us the largest group of sector experts in any City disputes practice. The way we've built our team, according to the industries our clients work in, ensures that you get advice in the context of your own market, delivered by people who really understand your business.
-		-/
-		With lawyers in 70 offices in 39 countries, we're genuinely international too. We can be at your side wherever you need us, with the capacity and technical expertise to advise on even the most complex and demanding problems. Whether you want a strategy to avoid disputes or a way to succeed in a dispute, we'll work with you every step of the way to find the right solution.
-
-	-Employment
-		-Working
-		-It
-		-Out
-
-		Acquisitions. Brexit. Contracts. Disputes. Equality. Flexible working. We could keep going all the way to Zero hours contracts. If you're an HR professional or an in-house employment lawyer, you've got a lot on your plate. And we have the in-depth expertise to support you with it all from A to Z.
-		-/
-		Our newly-merged firm – now one of the largest in the world – has the resources and know-how to help you get safely through the minefield of regulation, litigation and other complex matters you have to contend with, as well as efficiently handling more day-to-day employment issues. Combining specialist technical expertise with a deep understanding of your sector, we can work with you to achieve the best possible commercial solution, providing a high quality and cost effective service every step of the way.
-		-/
-		With a highly ranked UK team working across six offices in England and Scotland, and an international team of 300 employment lawyers spanning 39 jurisdictions, we can help you overcome the challenges you face, wherever they are.
-
-	-Equity Capital Markets
-		-Capital
-		-Market
-		-Specialists
-
-		Navigating equity capital markets can be a complex business. Whether you're looking to take your company public, raise capital or simply find your way through the maze of rules and regulations, we can help you.
-		-/
-		Our merger has brought together a strong team of experienced and innovative ECM lawyers. We act for listed companies from around the world, including the UK, US, Europe, India and China. On the institutional side, we advise a range of sponsors and nomads, as well as brokers and financial advisers.
-		-/
-		We're also a sector-driven firm. So in addition to their experience of IPOs, secondary fundraisings, bond issues and public takeovers – plus compliance, corporate governance and employee incentive plans – our lawyers have an understanding of your sector that enables us to give you all the support you need to achieve your underlying commercial goals. To put it simply: we know where you're coming from, and we can help you get to where you want to be.
-
-	-Insurance
-		-A
-		-Risky
-		-Business
-
-		Insurance is in a soft market cycle. Brokers, carriers, captives and corporate risk managers have been hit by falling prices. Companies must innovate, cut costs and find new opportunities. And yet the industry still attracts fresh capital, seeking stable returns in a highly regulated sphere.
-		-/
-		We've been working in insurance and reinsurance for nearly a century, but we're bang up to date in our ability to support the industry today – and tomorrow. As well as being leaders in dispute resolution and policy wordings, we have specialisms that can help insurance professionals achieve a huge range of business objectives. Our advice goes far beyond insurance claims, to cover M&A, employment, property, structured finance, and regulation and compliance. Our merger has also given us a market leading position in the rapidly emerging area of InsurTech.
-		-/
-		Our firmwide sector focus lets us advise risk managers in other industries too. Blending in-depth sector know-how with insurance expertise guarantees all our clients the best solutions for their needs.
-
-	-Intellectual Property
-		-Intelligent
-		-Insightful
-		-Incisive
-
-		The phrase ‘knowledge economy' says it all. IP is central to modern businesses. From brands through patents to confidentiality – you need a cohesive strategy to protect your IP, to exploit it, and to stay ahead of the curve in the rapidly changing world of IP law.
-		-/
-		Our lawyers have all the expertise you'd find in a niche IP firm, but combine it with wide commercial experience and, crucially, a focus on sectors that's central to the way we work. We don't just look at your IP issues: we advise you on them in the context of your sector and your markets. We do non-contentious and contentious work. And we work around the world.
-		-/
-		As Olswang, we were known for our cutting-edge IP practice. Combined with CMS and Nabarro, we're more incisive than ever, with an added range of specialisms and sector insights that can solve all manner of problems. If you thought we were good then, wait till you see us now.
-
-	-Mergers & Acquisitions
-		-Creating
-		-Merger
-		-Success
-
-		With debt cheap and the cost of capital relatively inexpensive, the market for M&A should be booming. But then there's Brexit and Trump. In fact, despite political ups and downs, the last year has seen the buying, selling and combining of businesses remain positive. While mega-mergers are facing increased scrutiny from competition authorities, many are still hungry for a deal. China has a taste for the market, while larger businesses swallow smaller peers in the search for innovation and growth.
-		-/
-		No matter the flavour of your deal, our specialist team advises both public and private M&A for acquirers, targets and advisers. Our partner-led teams understand the ingredients for success, thanks to focused training, years of experience and the depth of our sector knowledge. That's why clients call us business savvy. 
-		-/
-		The combination of our three firms means, when it comes to sectors, we walk the talk. It's easy to say you understand the world's biggest tech, energy or real estate companies. It's another thing to work with them and understand their world and their ambitions. Whether a global business or fast growth star, we help you face the future and make M&A a success, not a statistic.
-
-	-Pensions
-		-Clearly
-		-Managed
-		-Solutions
-
-		Frequent legislative and regulatory changes mean pensions is a fast-evolving, highly regulated and technical area. It's also high profile when things go wrong. Governance of pensions and the assessment of investment risk have never been more important. 
-		-/
-		Whether you are a pension scheme with assets of a few million pounds or several billion pounds in assets, a company with pension obligations or an insurance company, we provide the full range of legal advice. We're pragmatic, commercial and technically astute. You can rely on our award-winning pensions team to help you navigate the maze of regulations, policy documents, pension fund structures and other legal complexities you must contend with daily.
-		-/
-		As the first European law firm to establish a team dedicated to the life, pensions and longevity risk transfer market, we help you respond to the ever-closer convergence between the insurance and capital markets. As a combined firm we also have a market-leading pensions litigation practice. Together we've helped shape regulations so we have the inside track and an eye on the future. 
-
--Regions
-	-Asia
-		-East
-		-Meets
-		-West
-
-		Asia leads the world in growth. China's momentum continues, despite economic rebalancing and concerns about protectionism in the West, post-Trump. The flow of money from Chinese investors shows no sign of drying up. Meanwhile Singapore is a global centre for trade, investment and arbitration. But will an aging Asian population hold growth back? Or will India's rapid rise, the power of China, and strong growth across Asia Pacific help secure a future where East meets West to deliver global prosperity?
-		-/
-		With offices in China, Hong Kong and Singapore, we've been advising clients in the region for over 30 years. Our tried and trusted network of local lawyers covers every key Asian jurisdiction, bringing local market knowledge to our clients, backed by global law firm quality. Whether you're conducting major cross-border transactions, complex disputes, seeking inbound or outbound investment opportunities, or simply local legal advice, we're here to help.
-		-/
-		The merger of our three firms brings new sector strength to our Asian and international clients. Our Singapore office is a hub for TMT, Infrastructure and Real Estate activity, while our Chinese offices lead in Life Sciences and Financial Services. We make connections by really understanding your world, helping you make connections in the region and beyond.
-		
-	-CEE
-		-Speaking
-		-Your
-		-Language
-
-		With predicted growth of over 3% this year, Central and Eastern Europe is set to outperform the Eurozone again. International investors are looking for energy, infrastructure, real estate and other opportunities. Big tech companies are locating to the region attracted by a talented workforce. But as incomes begin to converge with the west, governments are also looking to restructure debt and encourage entrepreneurship to stimulate organic growth.
-		-/
-		We've been here advising global corporations and investors in CEE for over 25 years. With over 100 partners and 500 lawyers across 15 full-service offices in CEE - more than any other international law firm - we understand the business landscape of the region inside out. Our team offers you both local and UK and US lawyers on the ground. We speak your language and the local language. That's why clients value our commercial perspicacity and our legal insight. And that gives you an edge, whether you're acquiring or setting up a business, planning a green field investment or involved in a complex cross-border transaction or dispute.
-		-/
-		We were already Europe's biggest law firm, but our recent UK merger delivers market leading sector strength in real estate and TMT. Combined with new offices in Asia and the Middle East we are better placed than ever to facilitate investment in CEE and help you deliver the region's continued growth.
+-Firm 
+	-Key facts  
+	(Updated 13 Sept 2017)   
 	
-	-Scotland
-		-Commercially
-		-Minded
-		-Scots
-
-		From Brexit to the ongoing constitutional debate in Scotland, the implications for financial services and the changing face of energy markets, these are uncertain times for Scottish business. But this dynamic, resourceful country is well placed to meet these challenges, embrace innovation and make the most of new opportunities. 
-		-/
-		That's where we can help. We're a future-facing, global law firm that's completely at home doing business locally thanks to centuries of heritage right here in Scotland. As the pre-eminent Scottish firm and Europe's largest law firm, we understand your business at home and internationally. And we're at the centre of service innovation for clients thanks to our Legal Services Unit based in Edinburgh and Glasgow.
-		-/
-		Financial services and energy are at heart of the Scottish economy. We're proud to have advised Scotland's largest companies and helped shape the legal landscape in these sectors. Economic sectors matter to us because they are the world you operate in. Our merger with Dundas & Wilson signalled our commitment to Scotland. Our merger with Nabarro and Olswang signals our commitment to the other key sectors central to the Scottish economy: infrastructure, life sciences and healthcare, real estate and technology.
-
--CMS facts & figures 
-	(updated 1 August 2017)
-	
-	71 offices
-	65 cities
+	1000+ partners  
+	4500 lawyers  
+	Revenue of EUR1.05bn  
+	71 offices  
+	65 cities   
 	40 countries
-	>1,000 partners
-	>4,500 lawyers
-	>7,500 employees
-	2016 revenue: EUR 999m
-	Ranked 3rd most global law firm in the Am Law 2016 Global Top 100	
 	
+ 	-Your World First  
+ 	We are a law firm that spends more time looking out at our clients’ world than inwards at ours. We help clients get ahead today by anticipating their challenges.
+  	‘Your World First’ is our commitment to be client-centric:   
+		Understanding the details of our clients’ business and the environment they work in.   
+		/   
+		Speaking on our clients’ behalf when new laws are made and alerting them on what is coming up.   
+		/   
+		Providing services that add value e.g. Law-Now.
+		
+  	‘Your World First’ means a world vision:   
+		Building on deep local roots, forming an international organisation.   
+		/   
+		Working together in cross-border teams to give clients the full picture.   
+		/   
+		Growing alongside our clients’ businesses to be in the places where they need us most.
+		
+  	‘Your World First’ means performance-driven:   
+		Acting as both technical experts and pragmatic advisers.   
+		/   
+		Delivering quality results – not just opinions – that you can act on to achieve your business goals.   
+		/   
+		Training our lawyers in project management to manage your matters professionally and promptly.   
+		/   
+		Actively seeking your feedback to continue to outperform in client satisfaction surveys.
+		
+ -Recent Accolades  
+ 	(Updated 13 Sept 2017)    
+	Ranked in the Top 20 in Acritas Global Elite Brand Index – Acritas, 2017    
+	Ranked No. 1 in M&A League Tables by deal count in Europe, CEE, France, Germany and the UK – Bloomberg, 2016    
+	Ranked No. 1 in M&A League Tables by deal count for Germany – mergermarket and Thomson Reuters    
+	Ranked 3rd Most Global Law Firm – AmLaw Global Top 100, 2016
+	Pan-European Legal Adviser of the Year – Private Equity Awards, 2016
+	
+-CMS  
+	Fully networked, globally connected – With 71 offices in 65 cities worldwide, CMS is one of the most global law firms, combing immense global reach with deep local knowledge. Our more than 4,500 legal professionals, including more than 1,000 partners, work in cross-border teams to offer our clients business-focused advice in law and tax matters. [We are united in our vision and values, and focused on driving a culture of high ethical standards.]
+  
+  	Client-centric – We are a future-facing law firm, one that is well-equipped to help our clients face the future with confidence. This means putting our clients’ interests and priorities at the very heart of everything we do, and having a real world understanding of the market in which our clients operate. Our approach to service delivery is the same in all our offices, based on a common training program and a shared understanding of what our clients value.
+  	
+	Sector focused – In a world of ever-accelerating change, being client centric demands unwavering sector focus. Across our eight sectors – Consumer Products; Energy; Financial Services; Hotels & Leisure; Infrastructure & Project Finance; Life Sciences & Healthcare; Real Estate; and Technology, Media & Telecommunications – we don’t just have some of the brightest and most creative legal minds. Our lawyers are fully immersed in the world in which our clients operate; genuine experts in their fields, knowledgeable about the issues our clients currently face, and those that may lie just around the corner.
+  	
+	Driven by technology – As a future-facing firm, we are driven by technology and readily embrace the possibilities it opens up for developing new and better ways of delivering legal 
+ 
+-Sectors  
+	-Communications  
+		Market leaders – We have over 300 TMC lawyers worldwide, and in telecoms are ranked in 13 countries, plus Band 2 for Europe-wide. We are ranked band 1 in the UK by Legal 500 for IT and telecoms. Chris Watson the Global Head of TMC, has been consistently been ranked in the top 6 global telecoms lawyers for several years. We have an extremely active CMS-wide communications subgroup dedicated to delivering this service. Among our clients are Orange, BT, Liberty Global (and several subsidiaries), CityFibre, Viatel, T-Mobil, Bahrain government.    
+		
+		All rounders – Not only do we advise communications players, their end-users and their investors and financiers, but we advise regulators and governments on the development of their national policies too.  We really know telecoms and offer a holistic view of the market now and where it is likely going, especially as it converges with technology and media.
+  
+  		Lawyers who have worked in industry – Many of CMS’s communications lawyers have in-house experience, bringing precious insight into how communications companies work on the ground. This means our advice is truly not just legal, but commercial. Former employers include leading players like Deutsche Telekom (Dora Petranyi), Liberty Global, Vodafone (Russell Hoare), Orange (Ireneusz Piecuch), Telstra (Mark Fisher) and Viatel (Stuart Blythe). 
+  
+  		Niche communications knowledge – We also have specialists in niche-areas including network and infrastructure sharing, MVNOs, data centres, postal and subsea cables. We worked on the largest network sharing deals in CEE. We also publish the Network Sharing Study every year, with which the European Commission were particularly impressed.
+  
+  		Key contact: Chris Watson
+		
+ 	-Consumer Products  
+		Cutting edge is our day-to-day – We help companies adapt to the new frontiers of the industry. From omni-channel to digital cash, use of social media, data privacy, new delivery systems, complex regulatory changes and Brexit, our specialists sit at the coalface of the enormous transitions changing our clients’ world.
+ 
+ 		A full service consumer products team – Our dedicated Consumer Products team, with over 400 specialised advisers including 80 in the UK alone, advises clients across the FMCG, Retail, Fashion & Luxury and Household Goods sectors. We draw on the strength of our many practice specialisms to deliver across all aspects of our clients’ legal requirements, both contentious and non-contentious. We advise on everything from M&A through to finance, real estate, competition, distribution, fulfilment, warehousing, employment, regulatory, franchising, product liability, IP, advertising, anti-bribery and corruption, and data protection, to name a few.
+
+		Supporting clients’ international growth – though our global network of offices we leverage a deep understanding of the legal, commercial and regulatory issues that govern the global consumer goods sector to help clients achieve their international growth ambitions and manage their most complex cross-border matters. We recently helped a global casualwear designer on the rollout of their ecommerce platform across Europe and regularly support other consumer products companies on similar projects.
+
+		Trusted by the leading companies in the sector – Our team supports more than 300 consumer products clients, including the leading retailers and FMCG companies. We work for three of the top five global FMCG companies, and for half of the Top 10 UK retailers. Marks & Spencer, Nestlé, Barbour and Chanel are among the many household name clients we represent.             
+		
+		Key contacts: Tom Scourfield, Louise Wallace   
+	
+	-Energy  
+		The undisputed market leader – With more than 400 energy specialists around the world, our energy team has been a globally recognised leading practice over 30 years. We have won numerous awards over the years, including most recently Energy and Infrastructure Team of the Year at the Legal Business Awards in 2017, and Energy Team of the Year at The Lawyer Awards in both 2016 and 2017. Our energy experience spans oil and gas, power and renewables, and we are thought leaders in all areas and highly connected with governments and leading academic institutions.
+		
+		Writing the rulebook – Over the past 30 years, our experts have helped shape the sector by creating the legal frameworks upon which many markets are based. The team has just completed the structure on the Mexican Electricity Reform and has worked on electricity markets in 60 jurisdictions. In Oil & Gas, CMS has written many of the industry’s standard contracts that are now used worldwide and is well-known for undertaking industry training.
+	
+		Future facing – From energy storage, floating offshore wind, shale and alternative O&G, nuclear fusion, carbon capture and storage, and tidal lagoons, CMS lawyers advise on energy technologies of the future. From the impact of the internet of things to breakthroughs with blockchain, from planning priorities to making the most of your real estate and infrastructure, our combination with Nabarro and Olswang brings yet more power to our energy offering.
+
+		Serving all types of industry players – We advise all of our clients – NOCs, IOCs, independents, electricity companies, investors, governments, financial institutions and contractors – in the context of their organisation and their strategic challenges. Of note is that we advise all six Oil & Gas supermajors.
+
+		Key contacts: Penelope Warne, Robert Lane, Bob Palmer, Munir Hassan
+ 
+ 	-Financial Services & Regulation  
+		A leading practice – With leading practices in the UK’s two biggest financial services centres, London and Edinburgh, our team of 30 financial services regulatory lawyers combines contentious and non-contentious wholesale and retail expertise across banking, insurance, asset management and financial intermediation. We completely understand the regulatory context in which our clients operate and the importance of finding commercial solutions to their problems.
+ 
+ 		Excellent relationships with regulators – We have excellent relationships with both EU and national regulatory authorities and thoroughly understand the fast-changing world of European financial regulation. Some of our lawyers have worked for or been on secondment with these authorities, and our team works with them on a regular basis.
+
+		Serving a broad variety of industry players – Our clients include banks, insurance companies and intermediaries, investment managers, broker dealers, investment advisors, payment institutions, FinTech companies, pension funds, consumer finance providers and a wide range of platforms (from investment exchanges to crowd funding).
+
+		At the cutting edge – we have handled some of the most complex projects ranging for one major bank implementing MiFID to another adopting the new senior manager regime.  We have also fought some of the most complex regulatory cases, including the UK’s largest asset manager investigation to the largest ever fully contested authorisation and change in control cases.
+
+		Key contacts: Simon Morris, Ash Saluja
+
+	-Gambling  
+		Top-tier gambling practice – Ranked in Band 1 Legal 500, our gambling lawyers, who are part of a 300+ strong TMT team, provide a full service, international practice focused on the gambling sector. Acting for both online and land-based operators, our expertise extends to all gambling products, including betting, gaming, lotteries, prize competitions and promotions.
+
+		Full service – Unique amongst firms focusing on the gambling sector, we offer a full service encompassing not only commercial and regulatory advice but also M&A, gambling taxation, litigation, public law, intellectual property, financial services and data protection. Whether a client wants to establish a new company, obtain a licence or needs market leading gambling tax advice, we provide a one-stop service.
+
+		Global offering – We have a network of specialist gambling lawyers with whom we work both as part of CMS and otherwise. We are well placed to offer advice as new licensing regimes are introduced or legislation changes or on cross-border M&A. We can advise on the best jurisdiction for a client from both a regulatory and tax perspective.
+		
+		Sector insight – Through working in the sector for approaching 20 years, we have developed deep sector knowledge and have been involved in many of the biggest transactions and industry-defining litigation. Our client list includes 888, Gamesys, BetFred, BetVictor, GVC, Lottoland, Rank and Sportech.
+
+		Key contact: David Zeffman  
+		
+	-Healthcare  
+		A pre-eminent healthcare practice – Our team of more than 100 lawyers has many years of experience of working in the healthcare sector. We are one of the few firms in the UK that can handle both the large M&A & real estate transactions and the smaller day to day operational issues. Our dominant reputation in the private healthcare market was demonstrated when we won, for the second time in a row, the award for ‘Legal Advisors of the Year – Private’ at the HealthInvestor Awards 2016. 
+
+		Focus on independent health and social care –We advise independent operators, investors, funders, advisers and the NHS and offer sector-focused support. We work with many of the largest independent healthcare companies currently operating in the UK and in addition, we are able to guide and support international investors on their entry into the UK and many other international markets
+
+		Active in all key areas of the market – We are active in all key areas of the market, including residential and social care, mental health, acute and community care, primary care, health services, and health-tech. We provide clients with advice in the areas of corporate, private and public equity; real estate; infrastructure, PFI and PPP; employment & pensions; regulation, clinical risk & disputes; competition; intellectual property; data protection; tax and finance.
+
+		Embedded in the community – We are regularly invited to join industry bodies and speak at sector conferences. We help to shape the sector through our annual Thought Leadership. Through our network of contacts we can make valuable connections with others in the sector. 
+
+		Key contacts: Warren Taylor, Candice Blackwood, Cyrus Mehta, Paul Smith
+ 	
+	-Hotels & Leisure  
+		The market leader – As Europe’s leading law firm for the hotel industry, with over 200 experts (including 100 in the UK) in 40 countries, we have been ranked 'top tier' by Chambers & Partners and Legal 500 for many years. In recent years, we have advised on more Hotels & Leisure transactions than any other law firm (European Leisure league tables, mergermarket, 2017). 
+
+		Five star service – We have the experience to advise clients on all aspects of the hotel and leisure sector, including on M&A, financing, development and construction leases, management and franchise agreements and tax structuring. Our team continues to be involved in the largest and most high profile hotel and leisure transactions and projects globally.
+		
+		Advising a range of industry players – In addition to our core client base of investors and lenders, we also advise operators, brand owners, administrators, construction companies and technology providers.
+
+		Working with the best – Our lawyers have in-depth sector awareness as we work with a full range of hoteliers, investors and developers, including (among others): Accor, Fairmont Hotels, Hard Rock International, Hakkasan, Invesco, Lloyds Bank, Lone Star, M&G, Meliá, Oaktree Capital, Patron Capital Santander, Standard Life Investments and Soho House.
+
+		Key contacts: Tom Page, Lukas Hejduk
+
+	-Infrastructure & Project Finance  
+		Market leading - Recognised by InfraDeals 2017 as the NO. 1 overall team in the UK and Europe, our Infrastructure & Project Finance team comprise of over 300 lawyers supporting clients across the world.  With eight Band 1 randkings for Infrastructure & Transport in the latest Chambers UK and Legal 500 UK, our primary markets team has helped deliver deals in the UK worth over £16bn alone, including innovative approaches to project financing, and our secondary markets specialists have shaped the sector ensuring quick deal completions on terms that optimise returns.
+		
+		
+				
+		
+			
+	-Life Sciences  
+		A large and prominent team – As one of the largest firms operating in the sector, with over 80 life sciences specialists in the UK and 300 globally, we have the range of expertise to cover the whole landscape in which our clients operate. Whether it is a start-up or a global pharmaceutical company, we are able to help clients both locally and internationally. Our experts cover all sub-sectors where life sciences companies operate, including medical devices, e-health, pharmaceuticals, diagnostics and biotechnology. We are top ranked for Life Sciences in both Chambers and Legal 500 with leading individuals in life sciences specific patent litigation, product liability, regulatory and transactional.
+  
+  		Truly full-service – We are one of only a few firms able to offer strength and depth of expertise across all the key areas of interest to life science companies. Whilst we advise on the complex regulatory, product liability, competition, procurement, IP and commercial issues, we are also able to deal with the more exceptional patent litigation and M&A transactions when they arise. In addition, we are one of the few firms with a dedicated patent attorney team dealing with patent prosecution, EPO opposition and regulatory exclusivity product life extension.
+
+		Immersed in the industry – We are not just lawyers and patent attorneys, but have backgrounds as immunologists, geneticists, chemists and engineers. Many of our team have worked as in-house lawyers in life sciences companies themselves, ensuring we truly understand our clients’ businesses and commercial priorities. We really get the importance of finding practical and pragmatic solutions to our clients’ problems to achieve their compliance and legal requirements. In addition, many of our team are active participants in key industry bodies, including ABHI (Association of British Healthcare Industries), ABPI and MedTech Europe. Through these memberships, we take a role that, among other things, helps to define the legal and compliance framework in which our clients operate.
+
+		Advice throughout the product life cycle – We can advise clients in every stage of the product life cycle, from intellectual property issues to financing and collaboration arrangements, and from clinical trials to authorisations, commercialisation, life cycle management and extracting value.
+  
+  		Key contacts: Sarah Hanson, Rob Stephen
+		
+ 	-Media  
+		Top-tier media practice – With more than 100 media lawyers who are part of a 300+ strong Technology, Media and Telecommunications team, we are the largest law firm in the UK to have a top tier media practice. We have Band 1 directory rankings for Media & Entertainment, Brand Management and Defamation & Reputation management. The synergies provided by combining Olswang’s famous excellence in media with the vision, innovation and international coverage of the new combined firm promise a greater service than ever for clients. 
+  
+  		Full service – Our media sector experience runs across the firm and each of our service lines, from M&A through litigation and regulatory to contracts. Our media team also works alongside our market leading technology and telecoms experts to provide the best advice on convergence trends, adtech, virtual and augmented reality, anti-piracy and more.
+  
+  		Sector insight – Over the last 30 years we have worked on industry-defining commercial arrangements and litigation in advertising, film, TV, digital and social media, games, music and publishing. We have advised on the creation of global TV production powerhouses, the financing of award-winning films, and helped to establish new platforms and drive new forms of content exploitation. Our client list includes the top names in the industry including 21st Century Fox, All3Media, Amazon, BBC, BT, Dentsu Aegis, EndemolShine, FremantleMedia, Immediate Media, ITV, Liberty Global, M&C Saatchi, NBCUniversal, Newscorp, Sky, Sony, Unilever, Viacom and Warner Bros.
+  
+  		Well-connected – Our team includes some of the world’s leading media practitioners. We have lobbied on behalf of the sector, sit on boards of industry bodies such as British Screen Advisory Council, Into Film and Women in Film & Television. We regularly contribute to trade publications and speak at leading industry events, and we use our connections to help our clients.
+  
+  		Key contacts: Victoria Gaskell, Paul Guite
+ 
+ 	-Private Equity  
+		A leading practice – Comprised of more than 200 private equity corporate, tax and finance lawyers, the CMS private equity team is one of the most highly regarded and active teams in Europe. In 2016 we won the award for Pan-European Legal Adviser of the Year at The Private Equity Awards. In the UK, we are ranked in the top tier by Legal 500 for Private Equity – Mid-Cap Deal Capability.
+  
+  		Acting in all segments of the market – We act in all segments of the market, from large cap, throughout the mid-market and venture capital. We have the range, expertise and flex to service transactions of all types and sizes, and to carry out important portfolio company work, at the highest levels of quality. A strong client/lawyer relationship is key to delivering efficient deals. We are totally committed to our clients and our top ranking private equity experience means we know how to balance protecting our clients’ rights with getting the deal done.
+  
+  		Sector focus – Understanding the industry in which our clients operate is crucial when it comes to effective commercial and legal advice. We organise our business along sector lines across all jurisdictions, which means we provide genuine expertise from lawyers who are concentrated solely on your industry.
+  
+  		Total package throughout the lifecycle – Wherever our client’s business is in its lifecycle and no matter what their legal needs, we can meet them without outsourcing or subcontracting to any other law firms. This end-to-end service means we can deliver the total package at the highest service levels, at the right price point, whatever the work required.
+  
+  		Key contact: James Grimwood
+ 
+ 	-Real Estate  
+		The undisputed market leaders – With more than 650 real estate lawyers globally (representing the largest team in Europe), we have the resources to meet clients’ needs quickly and efficiently, whatever the size and scope of the project or deal, and wherever they transact. Our UK real estate team, with more than 90 partners and 300 lawyers, is the largest in any law firm. Given our scale, no other firm can do what we do. From complex international and cross border deals, through to major portfolio deals covering all elements of real estate, we are dominant both locally and globally.
+  
+  		A complete real estate service – Whether clients are investing, developing or seeking to effectively manage their assets, we can provide the full spectrum of real estate services. Some firms position themselves exclusively for high end work, but we recognise that high grade asset management helps maintain and enhance capital values across our clients’ portfolios. We have market-leading specialist teams in direct and indirect real estate; real estate tax; real estate finance; real estate disputes; regulatory; planning/environment; construction; joint ventures; corporate real estate and real estate funds. Our multi-disciplinary approach is integral to overcoming deal issues, managing all forms of risk and getting transactions over the line. 
+  
+  		Subsector specialisms – Our expertise spans all asset classes, including office; retail; student accommodation; healthcare and retirement living; mixed-use; energy; data centres; hotels/leisure; build to rent/residential; and distribution/logistics/industrial. Our reputation is pre-eminent in each of these subsectors 
+  
+  		Commercial awareness – We are at the forefront of sector developments and the shaping of industry policy. In addition to producing our own thought leadership, many of our lawyers are board and committee members of key professional bodies such as AREF (Association of Real Estate Funds); BCO (British Council for Offices); BPF (British Property Federation); CPA (City Property Association); INREV (European Association for Investors in Non-Listed Real Estate Vehicles); IPF (Investment Property Forum); REVO (organisation promoting the UK property and placemaking community); ULI (Urban Land Institute); YEP (Young Entrepreneurs in Property); EPRA (European Public Real Estate Association); WIP (Women in Property); and WPA (Westminster Property Association).
+  
+  		Key contacts: Ciaran Carvalho, John Cumpson, Mark Heighton
+
+	- Technology  
+		Undisputed market leaders – CMS has around 200 technology lawyers (including well over 100 lawyers in the UK), who are part of a 300+ strong Technology, Media and Telecommunications team.  Our technology specialists have led the way in tech law since the earliest days of the internet – or even before. We are ranked in Band 1 in Legal 500 across the UK.
+  
+  		Crossing traditional sector lines – Today technology crosses traditional sector lines. So to ensure their commercial interests are at the heart of every decision, clients should choose lawyers who understand the intricacies of technology. Our award-winning team advise on disputes, corporate, IP, commercial, data privacy and security, AI, employment and tax.
+  
+  		Unrivalled tech client base – Our clients range from the giant tech players such as BT, Facebook, HP and Microsoft to some of the newer names with disruptive technologies. We are also recognised for billion pound transactions for buyers of IT such as BP, Lloyds Bank, M&S and National Grid.
+  
+  		Leading player in the start-up scene – Backed by our equIP programme, we are one of the leading players in the technology start-up scene, with clients such as The LADbible, Appy Parking and Hammerhead VR.
+  
+  		Key contact: Clive Gringras  
+		
+-Practices 
+	-Banking & Finance  
+		Top quality – Our Banking & Finance teams in Scotland and CEE are consistently ranked as the No. 1 Finance teams in their jurisdictions. In total, we have 11 Band 1 rankings for Banking & Finance across Chambers Europe and Legal 500 Europe. We act for corporates, financial institutions (including 18 of the Top 20 European banks), investment funds and managers, pension trustees, insolvency practitioners and debt advisors. We have an increasing focus on investment funds and alternative lenders.
+  
+  		Bench strength – The CMS Banking & Finance team brings together 400 lawyers (including 55 partners and 150 other lawyers in CMNO), providing coverage across the UK, Europe, Russia, North Africa, the Middle East, Latin America and Asia. Our team includes Finance litigation specialists who connect and work with 900+ litigators across CMS.
+  
+  		Full range of services – We have core finance teams that include: corporate lending for financial institutions and borrowers; leveraged finance; infrastructure and project finance; real estate finance; asset finance; restructuring and insolvency and disputes. The team has a close working relationship with the debt capital markets team, who sit alongside our regulatory and risk transfer transactions teams and provide seamless advice on debt issuance and dealings with regulators.
+  
+  		Sector focus – The key to our way of working is our sector knowledge. We naturally have extensive experience of financings in our key sectors of energy, financial institutions, infrastructure and project finance, life sciences & healthcare, real estate and technology, media & telecommunications. We also have particular expertise in sectors such as aviation, commodities, hotels, railways and shipping.     
+		
+		Key contacts: Rita Lowe, Caryn Penley, Mark Segall
+		
+ 	-Commercial  
+		Depth of resources – With over 400 commercial lawyers globally, including more than 80 lawyers in the UK, our multi-disciplinary team advises on the full range of complex, high value, local and multi-jurisdictional commercial agreements.
+  
+  		A full range of services – Whether clients require advice on supply arrangements, services agreements, technology or telecommunications contracts, media or content deals, IP licensing, manufacturing agreements, consumer arrangements, software licensing, outsourcing or any other bespoke commercial arrangements, we help clients achieve the optimum outcome for their business.
+  
+  		Changing the landscape – As market-leading practitioners, we have shaped many of the landmark deals in the sectors we serve. Our sector-focused and innovative lawyers will work with clients from the start to come up with the structure that best suits their needs.
+  
+  		Solutions, now – We do not distinguish between ‘legal points’ and ‘commercial points.’ If an issue is relevant to our clients' deal, then we will understand it and help our clients resolve it. And clients won't need to explain to us that something is urgent or critical - we know that already. 
+  
+  		Key contact: Iain Stansfield
+ 
+ 	-Competition & Trade  
+		First-class practice – We have a first-class partner-led competition and trade practice, combining legal judgement, commercial nous, clear advice and first-rate advocacy, with an excellent track record of success in competition cases.
+  
+  		Breadth of experience – We are a go-to firm for CMA/sectoral regulator investigations, market inquiries, mergers and appeals in the Competition Appeal Tribunal. We have wide experience in EU competition/mergers, cartels, state aid, procurement, sanctions and trade. 
+  
+  		Bench strength – With 5 partners and 10 associates in London, and 170 competition lawyers across Europe – including a team in Brussels – we are one of the largest competition teams in the City, and have considerable bench strength and international insight.
+  
+  		Sector focus – Our sector focus in areas such as healthcare, financial services, energy and infrastructure, gives us in-depth knowledge of the application of competition rules in different markets, enabling us to understand our clients’ corporate environment and get to grips quickly and successfully with their business priorities.
+  
+  		Key contact: Cyrus Mehta
+
+	-Construction & Engineering  
+		Market leaders – Our award-winning team of over 85 lawyers in the UK and Middle East understand all types of construction and engineering projects. We have worked on some of the UK’s most complex and high profile energy, infrastructure and real estate developments, and on many international projects. Our dispute resolution specialists, with a wealth of construction and engineering experience, advise clients on risk management and on strategy when things go wrong.
+  
+  		Sector leaders – We are much more than just construction and engineering lawyers – our sector focus at CMS gives us massive bench strength and insight in real estate, infrastructure, energy and project finance. We get the big picture as well as the detail. We can work on every aspect of a project, from inception and procurement through funding and building to commissioning and operation. Our understanding and experience enable us to devise winning strategies to protect our clients and to craft agreements that really work.
+  
+  		Acting for a broad range of industry players – Our clients include funders, owners, developers, leading contractors, specialist sub-contractors and consultants from right across the industry. We act for six of the UK’s top ten contractors as well as some of the leading developers across the globe.
+  
+  		Future facing – We are at the forefront of developments in the industry. We are currently advising clients on the new NEC4 suite of contracts. We also regularly advise on the use of new technology including modularisation, robotics, VR and AR.
+  
+  		Key contacts: Victoria Peckett, David Parton
+ 
+ 	-Disputes  
+		Depth of resources – We have more than 900 disputes lawyers around the world. With more than 160 disputes lawyers, including 42 partners, we are among the Top 5 largest disputes practices in the City of London. We have the largest group of sector experts in any City disputes practice. The way we have built our team, according to the industries our clients work in, ensures that you get advice in the context of your own market, delivered by people who really understand your business.
+  
+  		Global reach, local know-how – With experienced lawyers in over 70 countries, we are genuinely international. We can be at your side wherever you need us, with the capacity, technical expertise and local understanding to advise on even the most complex and demanding disputes. Whether you want a strategy to avoid disputes or a way to succeed in a dispute, we will work with you every step of the way to find the right solution.
+  
+  		Trusted high-stakes advisers – Our clients rely on us to handle sensitive disputes as a matter of course, turning to us for advice on their most business-critical cases. Building strong relationships and bonds of trust with the people we work for is an integral part of what we do and our long-standing relationships mean we hit the ground running when our clients need us most.
+ 
+ 		Investing in tools and technologies – Our record of success in even the most complex international disputes reflects our investment in, and commitment to, excellence and innovation. This commitment enables us to achieve results for our clients at a realistic and proportionate cost. We have heavily invested in innovation to help us help our clients, and have a range of digital tools designed to work smarter and faster for our clients. Through CMS Evidence, CMS Collaborate, CMS Clarity and CMS Brainspace we use AI, online deal rooms, digital document checking and collaboration to flexibly handle large, complicated cases and smaller matters in a way that gives our client the best deal.
+  
+  		Key contacts: Guy Pendell, Jonathan Warne
+ 
+ 	-Employment  
+		One of Europe’s pre-eminent employment teams – We have 350+ employment lawyers globally, making us one of the largest employment teams in Europe. In the UK alone, we have a top-ranked team of 10 partners supported by more than 40 lawyers across six locations. Our strength and depth enables us to manage international projects efficiently and seamlessly.
+ 
+ 		Household name clients – We act for many household name clients, from terrestrial broadcasters and global telecommunications companies to oil and gas super majors and financial institutions.
+  
+  		Business-focused specialists – We are completely business focused and understand the challenges our clients face. As well as the ‘day-to-day’, we can advise clients on highly technical employment matters such as complex Employment Tribunal and High Court litigation, business reorganisations and restructurings, global outsourcings, and major corporate and commercial transactions.
+  
+  		Leading from the front – We are at the forefront of domestic and international employment law and HR developments. We have worked with the CBI to help businesses navigate the gender pay gap reporting obligations and we have worked with Centre to develop an employee mental health and performance framework. We are currently advising a number of sectors on development around the gig economy, the GDPR and Brexit.
+  
+  		Key contacts: Catherine Taylor, Alison Woods, Melanie Lane
+
+	-Equity Capital Markets  
+		Strong track record – Our team of more than 100 capital markets lawyers has the ability to advise on transactions of all sizes. We have a strong track record of advising on hundreds of IPOs in the UK and overseas (including Rule 144A offerings in the US), secondary fundraisings, bond issues and public takeovers. We are the main corporate adviser to many household names, including 7 FTSE 100 and 19 FTSE 250 companies, as well as 42 AIM clients and are ranked 3rd for total number of listed clients by the ARL Adviser Rankings. The ECMi H1 2017 report published by Perfect Information ranks us 1st for AIM deals by volume and 2nd for all UK market deals by volume.
+  
+  		Dedicated US Securities practice – Increasingly, companies are seeking to access US investors in their fundraisings. Whether this involves a full ‘Rule 144A’ offering or approaching investors on a private basis, our dedicated US securities practice means that we can simultaneously advise on clients’ UK and US legal needs.
+  
+  		An international client base – We act for listed companies from around the world, including the UK, US, Europe, India and China. On the institutional side, we advise a range of sponsors and nomads, as well as brokers and ﬁnancial advisers.
+  
+  		Sector expertise – We are a sector driven firm. Our lawyers have an understanding of your sector that enables us to give you all the support you need to achieve your underlying commercial goals. To put it simply: we know where our clients are coming from, and we can help them get to where they want to be.  
+  
+  		Key contact: Alasdair Steele
+ 
+ 	-Funds & Indirect Real Assets  
+		A top-ranked FIRA practice – Our Funds & Indirect Real Assets practice, with 50 lawyers globally, and with 7 partners and 16 fee earners in the UK, is ranked in Band 1 of Chambers and Legal 500 for advising leading real asset managers and global institutions. Our real assets focus is unique in the market, as is the depth of our technical experience and the breadth of our international reach. We are a one-stop global shop for indirect real asset investment and developing our practice across the various asset classes.
+  
+  		Full service – We advise on all types of indirect investment structures, including funds (listed and unlisted), structured transactions, joint ventures, clubs, co-investments, segregated mandates and REITs, particularly, in the UK, Europe and APAC.
+  
+  		Truly international – Our clients’ businesses are international, and therefore so is ours. Our team is based in the UK, Dubai and Singapore. We are supported by local funds, tax and deal structuring specialists in key mainland European centres (including Luxembourg, the Netherlands, France and Germany); APAC regional hubs (Beijing, Shanghai and Hong Kong); and the US.
+  
+  		Market experts – We are deeply immersed in the industry’s evolution, giving clients the latest insight on the regulatory, tax, finance and public affairs issues facing the sector, through senior committee positions at INREV (European Association for Investors in Non-Listed Real Estate Vehicles), AREF (Association of Real Estate Funds), IPF (Investment Property Forum) and EPRA (European Public Real Estate Association).
+  
+  		Key contact: Amanda Howard
+ 
+ 	-Insurance  
+		A market leader – With more than 100 insurance lawyers across the world, our Insurance and Reinsurance Group is a recognised market leader. We are consistently ranked among the UK’s top legal insurance practices in the directories. We have been working in insurance and reinsurance for nearly a century, but we are bang up to date in our ability to support the industry today – and tomorrow.
+  
+  		A full service practice – We are able to assist on the full range of insurance issues. As well as being leaders in dispute resolution and policy wordings, we have specialisms that can help insurance professionals achieve a huge range of business objectives. Our advice goes far beyond insurance claims, to cover M&A, employment, property, structured finance, and regulation and compliance. Where necessary, we can call on specialist support from market leading colleagues across a range of disciplines.
+  
+  		In-house experience – Many of our team have spent time in-house with insurers and brokers and have first-hand experience of how they operate and what their drivers are.
+  
+  		Extensive coverage across the UK and internationally – What sets us apart from many of our competitors is that we can offer expertise in London, Bristol and Scotland (as well as across CMS offices outside the UK), and that we have been doing so successfully for so long.
+  
+  	Key contact: Ed Foss   
+	
+	-Intellectual Property  
+		Strength and depth of resources – Our 300-strong, full service IP practice is a genuine “one stop shop” providing prosecution, litigation and licensing.  The team is a 100+ strong team in the UK, and is staffed with solicitors, barristers, patent attorneys and trade mark attorneys, all of whom work alongside specialist practice managers and specialised patent and trade mark paralegals.
+  
+  		Recognised excellence – The quality of our team is evidenced by our Band 1 rankings in legal directories including Law Firms with Patent & Trade Mark Attorneys, World Trade Mark Review Top 1000 (gold ranking), Intellectual Property (Scotland) and Brand Management .
+  
+  		One-stop-shop – We can service almost any IP issue that clients face, whether it relates to securing a trade mark, design or patent rights; undertaking freedom-to-operate searches; advising on the licensing or exploitation of IP rights; or handling protective and contentious work before the UK Intellectual Property Office, the EU Intellectual Property Office, the European Patent Office, The English Courts or the CJEU.
+  
+  		Sector industry leaders – The team has strong sector expertise in IP-rich industries with particular strength in consumer products, including fashion, technology, life sciences, media and entertainment. We frequently run seminars to alert clients to how impending market changes will affect their businesses. 
+  
+  		Key contact: Joel Barry
+
+	-Mergers & Acquisitions  
+		No. 1 for M&A deals – CMS led the Bloomberg M&A league tables by deal volume for Europe for the last four years, and was ranked No. 1 in both the UK and CEE for deal volume in 2016.  We are also ranked No.1 by both Mergermarket and Bloomberg for the UK and CEE for the first half of 2017. 
+  
+  		Unrivalled resources – Globally, CMS has a team of 350 Corporate/M&A partners and more than 1,000 Corporate/M&A lawyers. With 59 partners across London, Manchester, Sheffield and Scotland, we have more M&A partners in the UK than any other law firm. 
+  
+  		Sectors are at the heart of what we do – Our teams are structured and trained according to the industries in which our clients operate. Working in sector groups means we have a thorough understanding of the latest legal developments in our core industries. This helps us provide clients with the right balance of legal and commercial industry-focused advice. 
+  
+  		Main corporate adviser to many household names – We are the main corporate adviser to many household names, including 7 FTSE 100 and 19 FTSE 250 companies, as well as 42 AIM clients and are ranked 3rd for total number of listed clients and 6 for number of FTSE250 clients by the ARL Adviser Rankings. 
+  
+  		Key contacts: Charles Currier, Iain Newman
+	
+	-Pensions  
+		A market leader – We are widely regarded as market leaders and are ranked in Band 1 for both Pensions and Pension Litigation work in Chambers UK and Legal 500 UK. We were also named Pensions Law Firm of the Year at the Pensions Age Awards 2015, European Pension Law Firm of the Year 2015 at the European Pension Awards, and Best Pension Law Firm 2015 at the Engaged Investor awards.
+  
+  		Depth of resources – With 14 partners and over 50 lawyers in total we have one of the largest pensions teams of any major UK law firm.  Clients can rely on our award-winning team to help them navigate the maze of regulations, policy documents, pension fund structures and other legal complexities they must contend with daily.
+  
+  		A full-service practice – Our pensions team is experienced in advising trustees and employers on all aspects of defined benefit and defined contribution pension schemes. We also have considerable experience advising on insurance products (including buy-in and buy-out policy arrangements), longevity hedging products and asset backed scheme funding structures. Unlike most other firms, we can handle pensions litigation within the pensions team, and this enables us to brief clients in full on any potentially contentious issues and provides a balanced approach to our advice.
+  	
+		Commercial approach – We are pragmatic, commercial and technically astute. We provide schemes of all sizes with clear, pragmatic and proactive advice. We do it in a way that is efficient, straightforward and friendly. We also make sure that our clients are kept up to date on the latest pensions legislation by sending a variety of regular updates, which focus on both what clients need to know and, practically, what they need to do.
+  
+  		Key contacts: Simon Pilcher, Mark Grant
+ 
+ 	-Tax  A market-leading tax team – CMS has over 450 tax specialists throughout Europe and in a number of jurisdictions in the Middle East, Africa, Asia and Latin America. In the UK, we offer one of the three largest Tax teams in the City of London, with 14 partners and 28 associates. Wherever clients need us, we have the hands-on experience and language skills to communicate effectively with the tax authorities and to resolve tax issues swiftly and efficiently.
+  	
+	Full scope of tax work – We advise on all areas of tax. We have in-depth experience of M&A, covering all corporate and individual taxes, as well as expertise in VAT, international taxation, transfer pricing, tax structuring and tax disputes. We work increasingly on cross-border and international work, especially in the funds and institutional sectors, where we work closely with CMS colleagues in Belgium, Netherlands and especially Luxembourg. 
+  
+  	Tax work across the firm’s core sectors – We combine tax expertise with deep industry specialisms, meaning we understand the tax issues that govern our clients’ sectors. We have especially strong practices in the private equity, real estate, energy, media, technology, and hotels & leisure sectors.
+  
+  	Reputation for getting the deal done – Our tax team has a genuinely ‘can do’ approach, working on a wide range of matters often under severe time pressure.  We have a great reputation for ‘getting the deal done’, providing pragmatic, commercial and creative solutions to highly complex scenarios. We have a long list of clients who use us repeatedly as their trusted advisers and we are commended for adding real value to their transactions.
+  
+  	Key contacts: Aaron Fairhurst, Stephen Hignett
+
+-Regions 
+	-Asia  
+		Long track record – We have been helping clients do business in Asia-Pacific for over 40 years. Our local knowledge, combined with our international strength, enables us to provide clients with the commercial guidance and advice they need for both their everyday legal matters and their highly complex, strategic projects in the region. Whether clients are conducting major cross-border transactions, complex disputes, seeking inbound or outbound investment opportunities, or regional regulatory advice, we can help.
+  
+  		Strategically placed – With four offices in Beijing, Shanghai, Hong Kong and Singapore, our team of 18 partners and 85 legal professionals can provide a full service offering on the ground. Our tried and trusted network of local lawyers covers every key jurisdiction, bringing local market knowledge to complement our international understanding and advisory capability all on a global law firm platform.
+  
+  		Civil and common law advice – We are one of only a handful of law firms in Asia providing civil and common law advice, and our team includes lawyers from the UK, Germany, China, Hong Kong, Singapore, Malaysia, US, Australia and New Zealand. 
+  
+  		Sector specialists – We pride ourselves on our understanding of the sectors in which our clients operate. Our dedicated teams of sector specialists in the region have a strong focus on Life Sciences & Healthcare, TMT, Energy, Financial Services, Infrastructure & Project Finance and Real Estate. We have particular strength in the TMT sector, for which we are ranked in Band 1 in Singapore by Chambers Asia Pacific, and in the Life Sciences sector, where we offer clients access to the “Lifesciences Asia-Pacific Network” comprising lawyers from a number of leading international law firms from the ‘emerging markets’ in the region.
+  
+  	Key contacts: Nick Beckett, Andrew Stott
+ 
+ 	-CEE  
+		We are CEE – We have been advising global corporations and investors in Central Eastern Europe for over 25 years. With more than 100 partners and 500 lawyers across 15 full-service offices in CEE (more than any other law firm), we understand the business landscape of the region inside out. Clients come to us for local insight combined with global perspective.
+  
+  		Top quality – Our teams in CEE are top-ranked in their jurisdictions. In total, we currently have 38 Band 1 rankings across Chambers Europe and Legal 500 Europe, and were awarded ‘CEE Law Firm of the Year’ at the Chambers Europe Awards in 2016. We act for some of the top corporates and largest financial institutions operating in the region, and continue to be the busiest M&A legal advisor in CEE, topping the CEE deal tables by volume, advising on more transactions in the region than any other law firm.
+  
+  		Cross-border focus & English law centre of excellence – We regularly mobilise large international and/or multi-country teams for complex cross-border deals and projects, providing our clients with seamless and coordinated specialist support just where they need it. Our CEE team offers both local and international (UK and US) lawyers on-the-ground, and is widely recognised as a centre of excellence for English law transactions in the region. No other law firm has as many English qualified lawyers in the region.
+  
+  		Market shaping – Over the past two decades, we have helped to shape the CEE markets, advising on the legal frameworks upon which a number of markets are based, as well as shaping many of the landmark “first-of-their-kind” deals in the region.  
+  
+  	Key contact: Dora Petranyi   
+	
+	-Latin America  
+		High quality expertise – With more than 270 lawyers in Latin America, we offer clients high quality local expertise in a full range of practice areas and consistent, highly integrated service across all jurisdictions. We combine deep sectoral knowledge and experience with expertise in the legal areas that help our clients reach their goals and get deals done – such as real estate, project finance, corporate/M&A, tax, administrative, environmental and employment law.
+  
+  		Present in five of Latin America’s largest economies – We have built our presence in Latin America over the past ten years in line with client demand. In January 2017, we underlined our commitment to the region when top firms in Chile, Colombia and Peru joined CMS, adding to our highly regarded practices in Brazil and Mexico. We now provide clients with local, regional and global advice on their inbound and outbound business through our six CMS offices – in Bogotá, Lima, Medellin, Mexico City, Rio de Janeiro and Santiago.
+  
+  		Sector leaders – In Latin America, we are recognised as leaders in key sectors, including energy, mining, infrastructure, banking and finance, agribusiness, hotels and leisure; life sciences; and TMT.
+  
+  		Working with market leaders – We work with the key players who are shaping business in Latin America, including national and multinational industry leaders and government agencies. Representative clients include Petrobras, ENGIE, CTS Eventim, Banco Santander, Mexican Energy Ministry (SENER), Mexico Power Group, Empresas AquaChile S.A., BBVA Investment Bank, Suramericana S.A., Glencore Xstrata and Rio Tinto Plc.
+  
+  		Key contact: Ted Rhodes
+
+	-Middle East & North Africa  
+		Unique footprint – We have a specialist team of over 125 lawyers across our Middle East and North Africa offices in Algeria, Iran, Morocco, Oman, Saudi Arabia, Turkey and the UAE, and associated offices in Lebanon and Iraq. In September 2017, we expanded into Saudi Arabia, the largest economy in the Middle East, by partnering with Feras Al Shawaf Law Office, based in Riyadh, in an exclusive agreement.
+  
+  		Strong platform – The merger of CMS, Nabarro and Olswang has strengthened our platform in the Middle East, bringing together legacy CMS and Nabarro offices in Dubai and providing a platform to export Olswang’s expertise across the region based on which we expanded into the TMC sector in the UAE through a lateral hire in summer 2017. As a result, we have now added to our market-leading sector expertise in Energy, with an equally strong focus on Infrastructure, Funds, Hotels & Leisure, Real Estate, Healthcare and TMT – all growth areas for the region. 
+  
+  		Excellent client base and large transactions/disputes – Our Middle East team provides legal services to a broad mix of global conglomerates, regional governments, family office conglomerates and local financial investors and businesses. In the last twelve months our Dubai office has advised on transactions worth over $29 billion and regularly advises on high value and complex disputes of strategic important to our clients throughout the MENA Region and beyond.
+  
+  		Local and international – We combine local knowledge with international experience offering advice in Arabic, English, Farsi, Russian and French. Our local knowledge and business savvy approach means we give clients both commercial and legal insight to make the most of opportunities in the region.
+  
+  		Key contacts: John O'Connor, Mark Rocca
+		
+ 	-Scotland  
+		Size and scale – Our Scottish team of over 250 legal specialists provide the full range of legal services from our long standing offices in Aberdeen, Edinburgh and Glasgow.  Our team does not stop in Scotland – we work with the firm’s wider resources and expertise elsewhere in the UK, Europe and on an international basis. We work with many of the top corporate and major financial institutions in a wide range of sectors.
+  
+  		Deep roots and innovative – With centuries of heritage in Scotland we have been around long enough to understand the ever changing market and challenging times for Scottish businesses.  We do not, however, stand still and continually look to evolve our approach and enjoy looking for new ways to support our clients. Our Legal Services Unit based in Edinburgh and Glasgow is just one of the ways that we innovate to support our clients.
+  
+  		Assisting you wherever you do business – Serving our clients and helping them fulfil their ambitions wherever they do business is our core driver. With 70 offices across 41 countries, we can work with you in Scotland, the UK, Europe, the Middle East, Asia or the Americas.  CMS Scotland has the capability to serve our clients locally and internationally, being Europe’s largest law firm makes this easier with a significant presence on the ground in Scotland.
+  
+  		Market recognition – We have 32 band 1 rankings across Chambers and Legal 500 and are all working hard for more.  Our service has also been recognised in the market with CMS Scotland being appointed the Legal Adviser of the Year for the last two years. 
+  
+  		Key contact: Caryn Penley
+
+-Tools 
+	-CMS Analyse  
+		Data and contract analytics are poised to change the way that we make decisions and operate our businesses.
+  
+  		Advanced artificial intelligence technology analyses and investigates large document sets more quickly and cost-effectively than a manual review, leading to more accurate data extraction and lower risk. CMS Analyse uses this technology to deliver fast and effective analysis to clients in Real Estate and Corporate due diligence. When combined with CMS Evidence, the Brainspace platform and CMS Collaborate, we can cluster, compare, analyse and visualise data from multiple data sources faster and more cost effectively than was previously possible.
+ 	-CMS Clarity  
+		CMS Clarity is our dedicated resourcing and consultancy team whose goal is to solve your business challenges. They achieve this through the tailoring of project management support and legal expertise in combination with a wide range of tools, templates and technologies. The focus of the Clarity team on value, certainty and excellence is supported by near real time financial reporting via cost dashboards, client portals, dedicated extranets, visual plans/charts, weekly highlight reports, checklists and risk registers. This toolbox means we can deliver complex legal solutions on budget and at the quality level you expect. Whilst we do use an established matter/case management system, the team offer flexible and bespoke solutions that combine process efficiency with alternative resourcing options and technology.
+ 
+ 	-CMS Collaborate  
+		Sharing confidential data effectively amongst many stakeholders is key to the smooth running of any transaction. CMS Collaborate is a flexible, secure extranet and dataroom platform. It is used for a multiplicity of applications including corporate data rooms, online project management portals, exchanging/sharing bundles of evidence, contract management and case and asset portfolio tracking and reporting. Based on the leading HighQ software (and integrated with our document management system an d automation technology), we have the in-house expertise to set up and manage this secure service for all uses.
+		
+ 	-CMS Evidence  
+		The scope of eDisclosure and the scale of evidence related to regulatory and internal investigations are ever increasing.
+  
+  		Collecting and analysing high volumes of data has historically been a time-intensive task. CMS Evidence is a cost-effective electronic solution that supports the collection, hosting, forensic analysis, review and distribution of evidence to our clients. We provide the tools, expert consultancy (i.e. case assessments), management and review of electronic and physical evidence (i.e. eDiscovery) to support the whole range of disputes and investigations.
+  
+  		CMS Evidence gives clients and our lawyers’ quicker access to critical information. It is more than 50% cheaper than the historical outsource model.
+  
+  		Our investment in the powerful Brainspace platform takes our ability to accelerate data review to a new level. Its visualisation technology allows clients, in a matter of hours, to acquire a grasp of the issues, themes and relationships in their data sets. It allows them to quickly gain control over the review process and make faster, better informed decisions in the early stages of cases, investigations or transactions.
+ 
+ 	-CMS Client Automation Portal  
+		Efficiency, consistency, reporting ability and an audit trail for risk management purposes are vital aspects of the contract generation in a global business. The CMS Client Portal delivers secure and speedy generation of your standard forms straight into your own environment. It allows you to provide internal guidance and training materials to your staff at the point of generation. This can be a large suite of complex documents or a couple of key volume documents in our clients’ business.
+ 
+ 	-Law-Now  
+		Keeping up to date with the latest legal news and regulation is a major challenge for businesses. Law-Now delivers expert commentary and updates on legal issues affecting your world straight to your inbox. Register free of charge and choose the geographic, legal and sector news that you want to hear about. You can also visit the website to search the archive at www.cms-lawnow.com.
+  
+  		Law-Now can also be customised for individual organisations, delivering tailored event information, relationship information and the latest legal commentary all in one place.
+  
+  		RegZone, part of Law-Now, provides expert analysis and daily news from the fast-changing world of European financial institution regulation. Registration for email alerts is free of charge and the website hosts useful tools, an archive and the latest news for this sector.
+ 
+ 	-Law-Now eLearning  
+		Educating a workforce about important risks and legislation is a vital way to avoid unnecessary risks to a business. Law-Now eLearning delivers courses to help organisations of all sizes reduce the risk of infringements occurring within their business. Courses can be tailored to support your organisation’s and individual learner’s objectives.
+  
+  		Our on-demand e-learning courses cover topics such as anti-bribery and corruption, diversity and inclusion, managing the risks of using social media, competition law, contract law, data protection, plus many more.
+ 
+ 	-Knowledge Expertise  
+		Ensuring in-house legal teams have the right knowledge management processes and resources can be a challenge. Our team of information specialists offer a range of services to equip in-house teams with the resources they need. They can conduct knowledge audits for you, advise on system and search, provide business intelligence, know-how updates and help with research.
+ 
+ 	-Innovation Focus  
+		Our innovation team can offer clients advice on key trends and products in a fast moving legal tech landscape. Our team of dedicated staff are constantly horizon gazing to ensure that CMS can deliver both new legal products and existing advice and services in a manner that best suits the needs and budgets of our clients. We are building interactive apps, analysing our ‘big data’, making our tempolates smarter, working with augmented reality apps and investing in matter management solutions.  
+		
+	-Legal Services Unit  
+		Alternative working models are an increasing focus. The CMS Legal Services Unit is our large, in-house paralegal team that provides flexible, scalable and cost effective resource for routine, volume and process led legal tasks. The LSU works seamlessly with our lawyers and help deliver the more routine elements of projects and transactions more efficiently, completing tasks that do not need experienced lawyers. We have a huge range of experience supporting projects, cases and transactions across the whole range of sectors and practice groups.
+		
+	-Legal Process Outsourcing  
+		Businesses, and law firms, sometimes need to flex their workforce to accommodate work spikes or high volume and repetitive tasks. At CMS, we are already working with LPO providers to service our clients. We can provide a CMS managed integrated service, work with our strategic partner Integreon (or other LPOs we have relationships with) or work with your LPO provider of choice.
+
+	-Legal Project Management & Consultancy  
+		The most successful and efficient projects (including legal projects such as deals and cases) are those that have the right level of planning and organisation and are then managed carefully with effective delivery, transparent timely communication and no surprises.  Every project is different, but we have a Legal Project Management team who can help our clients and lawyers work out how to best manage their projects.  
+		
+		We have a toolkit of templates, best practice, training and tools that we can deploy and advise on.  We can also offer consultancy directly to clients who may be looking for help on improving processes in their in-house team or managing their legal projects.    
