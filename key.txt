@@ -398,6 +398,7 @@
 		Data and contract analytics are poised to change the way that we make decisions and operate our businesses.
   
   		Advanced artificial intelligence technology analyses and investigates large document sets more quickly and cost-effectively than a manual review, leading to more accurate data extraction and lower risk. CMS Analyse uses this technology to deliver fast and effective analysis to clients in Real Estate and Corporate due diligence. When combined with CMS Evidence, the Brainspace platform and CMS Collaborate, we can cluster, compare, analyse and visualise data from multiple data sources faster and more cost effectively than was previously possible.
+		
  	-CMS Clarity  
 		CMS Clarity is our dedicated resourcing and consultancy team whose goal is to solve your business challenges. They achieve this through the tailoring of project management support and legal expertise in combination with a wide range of tools, templates and technologies. The focus of the Clarity team on value, certainty and excellence is supported by near real time financial reporting via cost dashboards, client portals, dedicated extranets, visual plans/charts, weekly highlight reports, checklists and risk registers. This toolbox means we can deliver complex legal solutions on budget and at the quality level you expect. Whilst we do use an established matter/case management system, the team offer flexible and bespoke solutions that combine process efficiency with alternative resourcing options and technology.
  
